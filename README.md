@@ -1,15 +1,11 @@
 
-National Science Foundation
-
-Research Experience for Undergraduates
-
-Washington University in St. Louis
-
+National Science Foundation; 
+Research Experience for Undergraduates; 
+Washington University in St. Louis;
 Big Data Focus
 
 
-Researchers: Ulysses Butler and Joseph Li
-
+Researchers: Ulysses Butler and Joseph Li; 
 Advisors: Dr. Jeremy Buhler and Dr. Roger Chamberlain
 
 
