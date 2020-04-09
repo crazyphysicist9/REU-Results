@@ -1,11 +1,17 @@
 
-National Science Foundation;
-Research Experience for Undergraduates;
-Washington University in St. Louis;
+National Science Foundation
+
+Research Experience for Undergraduates
+
+Washington University in St. Louis
+
 Big Data Focus
 
+
 Researchers: Ulysses Butler and Joseph Li
+
 Advisors: Dr. Jeremy Buhler and Dr. Roger Chamberlain
+
 
 Data preprocessing is becoming increasingly important. Algorithms often require data input to be in a specific format. In this research, we examine how to efficiently transform graph data from an edge list to Compressed Sparse Row (CSR) representation. Notably, we are considering data sets on the scale of terabytes of data—too large to fit into RAM, thus necessitating data handling on the disk drive. Aware of the resulting bottleneck on performance speed, we minimize the number of file read and write operations whenever possible.
 
